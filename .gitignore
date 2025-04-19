@@ -171,6 +171,4 @@ cython_debug/
 .ruff_cache/
 
 # PyPI configuration file
-.pypirc
-#setup file until src is done
-setup.py
+.pypircss
