@@ -1,2 +1,4 @@
-# MCQ-gen
-MCQ generator using HuggingFace
+# MCQ Generator
+
+This project auto-generates multiple choice questions using Mistral AI.
+

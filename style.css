@@ -1,0 +1,47 @@
+body {
+    background-image: url('BookDoodle.jpg');
+    background-size: 400px;
+    background-repeat: repeat;
+    color: #ffffff;
+}
+
+.stApp {
+    background-color: transparent;
+}
+
+.content-box {
+    background-color: #000000;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.stRadio > label {
+    color: #ffffff;
+}
+
+.stTextInput > div > input {
+    background-color: #333333;
+    color: #ffffff;
+    border: 1px solid #555555;
+}
+
+.stNumberInput > div > input {
+    background-color: #333333;
+    color: #ffffff;
+    border: 1px solid #555555;
+}
+
+.stSlider > div > div {
+    background-color: #ff4040;
+}
+
+.stButton > button {
+    background-color: #ff4040;
+    color: #ffffff;
+    border: none;
+}
+
+.stButton > button:hover {
+    background-color: #cc3333;
+}
