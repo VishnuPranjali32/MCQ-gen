@@ -42,7 +42,9 @@ mcq-gen/
 └── .gitignore
 └── README.md
 
+```
 ---
+
 
 ## ⚙️ Setup Instructions
 
