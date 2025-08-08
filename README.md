@@ -28,6 +28,7 @@ This is an AI-powered Multiple Choice Question (MCQ) generator that creates ques
 
 ## 📁 Project Structure
 
+```plaintext
 mcq-gen/
 ├── .env                                                     # Stores Mistral API Key
 ├── requirements.txt                                         # Python dependencies
