@@ -85,17 +85,17 @@ Then open: [http://localhost:8501]( http://localhost:8501)
 ---
 
 ## Technologies Used
- [Mistral AI](https://mistral.ai/)
- [LangChain](https://www.langchain.com/)
- [Streamlit](https://streamlit.io/)
- [python-dotenv](https://pypi.org/project/python-dotenv/)
+- [Mistral AI](https://mistral.ai/)
+- [LangChain](https://www.langchain.com/)
+- [Streamlit](https://streamlit.io/)
+- [python-dotenv](https://pypi.org/project/python-dotenv/)
 
  --- 
 
  ## 🎓 Use Cases
- Student self-assessment
- Teachers creating dynamic quiz content
- AI/LLM-based academic or research projects
+ - Student self-assessment
+ - Teachers creating dynamic quiz content
+ - AI/LLM-based academic or research projects
  
  ---
 
